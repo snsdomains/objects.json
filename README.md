@@ -1,6 +1,8 @@
 # objects.json
-This repository contains our domain's program object & program IDs for the Sui Network.<br/>
-It is maintained here to allow our client applications to utilize our latest DEVNET programId & objectIds
+This repository contains the Sui Name Service <a href="">domain</a> program's object & program IDs for the Sui Network.<br/>
+These files are automatically generated on release of our program.<br/>
+
+It is maintained here to allow our partner applications to utilize our latest DEVNET programId & objectIds
 without having to re-update our <a href="https://github.com/snsdomains/js">API package every time during
 devnet.
 
@@ -10,4 +12,4 @@ devnet.
 * mainnet.json (coming soon)
 
 # Questions
-Please email `anthony@sns.domains`
+Please email `anthony@sns.domains`.
