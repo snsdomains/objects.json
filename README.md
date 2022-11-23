@@ -1,7 +1,7 @@
 # objects.json
-This repository contains the Sui Name Service <a href="https://github.com/snsdomains/domains">domains</a> program auto-generated object & program IDs on the Sui Network. These files are automatically generated on release of our program.<br/>
+This repository contains the Sui Name Service <a href="https://github.com/snsdomains/domains">domains</a> program object & program IDs on the Sui Network. These files are automatically generated on release of our program.<br/>
 
-It is maintained here to allow our partner applications to utilize our latest DEVNET programId & objectIds
+It is maintained here to allow our partner applications to utilize our latest DEVNET program & object IDs
 without having to re-update our <a href="https://github.com/snsdomains/js">client api</a> package every time during
 devnet.
 
