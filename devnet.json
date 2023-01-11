@@ -1,8 +1,8 @@
 {
-  "packageId": "0x87200aaea509428a4cda513221593346d8f9002c",
+  "packageId": "0xb8f0b661e3e46452ee1e99677a1e839626237f47",
   "adminId": "0x28a1d18c05b4784a9c4c3c28cac6b228b38f56c7",
-  "domainAdminCapId": "0x304025ada8fbb3ddee09add2430238fa1b8ea67a",
-  "domainRegistryId": "0xbdd7cf26252da5d85334b2c03717382e779eac63",
-  "profileRegistryId": "0x7e8d9431747100c227bf1da40ed483a63e40f5ae",
-  "domainCollectionId": "0x024089c82fbac504754f5d022579b8a16ea46729"
+  "domainAdminCapId": "0xa04f1319c57d60a02751196b2bda210bd2c14d86",
+  "domainRegistryId": "0x206efcaf30e0edce208ae7ee3c7de26ce25def97",
+  "profileRegistryId": "0x27587b7c2e4e33525fbab5f7d603e060c77ed506",
+  "domainCollectionId": "0x96a67cf6084ceb3d09680cd4f1ffae85c6350f10"
 }
